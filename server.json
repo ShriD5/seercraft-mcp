@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.ShriD5/seercraft",
+  "title": "Seercraft",
+  "description": "Competitor Meta ad tracking: what rivals launched, stopped and kept running, with links to every ad.",
+  "version": "1.0.0",
+  "websiteUrl": "https://seercraft.io/docs/mcp",
+  "repository": { "url": "https://github.com/ShriD5/seercraft-mcp", "source": "github" },
+  "icons": [{ "src": "https://seercraft.io/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] }],
+  "remotes": [{ "type": "streamable-http", "url": "https://api.seercraft.io/mcp" }]
+}
