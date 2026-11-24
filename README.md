@@ -48,4 +48,8 @@ Resources: `seercraft://brand-profile`, `seercraft://tracked-brands`.
 
 [Docs](https://seercraft.io/docs/mcp) · [Privacy](https://seercraft.io/privacy) · [Terms](https://seercraft.io/terms) · [hello@seercraft.io](mailto:hello@seercraft.io)
 
+## Plugin files
+
+This repo follows the [Agent Plugins](https://agent-plugins.org) standard: `plugin.json` (manifest) and `mcp.json` (the remote server). `lhm.plugin.json` is the LobeHub Marketplace manifest.
+
 Seercraft analyses public ad-library data; it doesn't serve, buy or promote ads. This repo holds the directory listing for the hosted server; the server itself is closed source.

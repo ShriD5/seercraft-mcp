@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "seercraft",
+  "version": "1.0.0",
+  "description": "Competitor Meta ad intelligence: see what your competitors launched, stopped and kept running on Facebook and Instagram, with links to every ad.",
+  "author": {
+    "name": "Seercraft",
+    "email": "hello@seercraft.io",
+    "url": "https://seercraft.io"
+  },
+  "homepage": "https://seercraft.io/docs/mcp",
+  "repository": "https://github.com/ShriD5/seercraft-mcp",
+  "keywords": ["competitor analysis", "meta ads", "facebook ads", "ad intelligence", "marketing", "creative strategy"]
+}
